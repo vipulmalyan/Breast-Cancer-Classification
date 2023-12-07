@@ -53,7 +53,7 @@ if __name__ == '__main__':
 page_bg_img = '''
 <style>
 [data-testid="stAppViewContainer"] {
-background-image: url("https://static.vecteezy.com/system/resources/previews/020/149/566/original/simple-silhouette-women-background-pink-vector.jpg");
+background-image: url("https://raw.githubusercontent.com/vipulmalyan/Heart-Stroke-Prediction/main/image-from-rawpixel-id-10235756-jpeg.jpg");
 background-size: cover;
 }
 </style>
