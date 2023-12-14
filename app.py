@@ -53,7 +53,7 @@ if __name__ == '__main__':
 page_bg_img = '''
 <style>
 [data-testid="stAppViewContainer"] {
-background-image: url("https://raw.githubusercontent.com/vipulmalyan/Heart-Stroke-Prediction/main/image-from-rawpixel-id-10235756-jpeg.jpg");
+background-image: url("https://raw.githubusercontent.com/vipulmalyan/Breast-Cancer-Classification/main/background.jpg");
 background-size: cover;
 }
 </style>
